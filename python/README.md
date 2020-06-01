@@ -25,16 +25,10 @@ python main/main.py
 ```
 Hello Wroldが表示される
 <br><br>
-# 5.プラグインインストール　※必要な場合のみ
+# 5.プラグインインストール
 ```
-（例）
-python -m pip install numpy
-python -m pip install pandas
-python -m pip install matplotlib
-python -m pip install networkx
-python -m pip install pyyaml
-python -m pip install xlsxwriter
-python -m pip install tornado
+python -m pip install tweepy
+python -m pip install python-dotenv
 ```
 <br><br>
 # 6.プラグインの確認
