@@ -1,6 +1,6 @@
 # 1.ディレクトリ移動
 ```
-cd 任意のディレクトリ/docker-workspace
+cd 任意のディレクトリ/docker-workspace/python
 ```
 <br><br>
 # 2.Docker起動
