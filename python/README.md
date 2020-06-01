@@ -37,8 +37,7 @@ python -m pip install xlsxwriter
 python -m pip install tornado
 ```
 <br><br>
-
-# 5.プラグインの確認
+# 6.プラグインの確認
 ```
 python -m pip list
 ```
